@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/src -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include
+CXX_INCLUDES = -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/src -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor -I/Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include
 
 CXX_FLAGSarm64 =  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk   -w -std=gnu++17
 

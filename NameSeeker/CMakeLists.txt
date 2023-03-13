@@ -13,8 +13,14 @@ set(PROJECT_VENDOR_DIR "${CMAKE_CURRENT_LIST_DIR}/vendor")
 
 
 # Vendor/Libraries
-set(CURL "${PROJECT_VENDOR_DIR}/curl")
-
+if(APPLE)
+    set(CURL "${PROJECT_VENDOR_DIR}/curl-osx")
+    set(CURLLIB "${CURL}/lib/libcurl.dylib")
+endif()
+if(WIN32)
+    set(CURL "${PROJECT_VENDOR_DIR}/curl-win")
+    set(CURLLIB "${CURL}/lib/libcurl.a")
+endif()
 
 ###################################################################
 # Project Sources and add library
@@ -46,5 +52,5 @@ target_include_directories(${PROJECT_NAME} PUBLIC
 ###################################################################
 
 target_link_libraries(${PROJECT_NAME} PUBLIC
-        ${CURL}/lib/libcurl.dylib
+        ${CURLLIB}
         )

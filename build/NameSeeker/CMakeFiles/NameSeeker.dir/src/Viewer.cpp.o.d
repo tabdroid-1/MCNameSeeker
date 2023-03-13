@@ -415,9 +415,9 @@ NameSeeker/CMakeFiles/NameSeeker.dir/src/Viewer.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/src/Viewer.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/curl.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/curlver.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/system.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/curl.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/curlver.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/system.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/socket.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/constrained_ctypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/_param.h \
@@ -429,9 +429,9 @@ NameSeeker/CMakeFiles/NameSeeker.dir/src/Viewer.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_timeval64.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_select.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/easy.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/multi.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/urlapi.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/options.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/header.h \
-  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/include/curl/websockets.h
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/easy.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/multi.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/urlapi.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/options.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/header.h \
+  /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/include/curl/websockets.h

@@ -108,7 +108,7 @@ NameSeeker_EXTERNAL_OBJECTS =
 NameSeeker/NameSeeker: NameSeeker/CMakeFiles/NameSeeker.dir/src/Viewer.cpp.o
 NameSeeker/NameSeeker: NameSeeker/CMakeFiles/NameSeeker.dir/src/main.cpp.o
 NameSeeker/NameSeeker: NameSeeker/CMakeFiles/NameSeeker.dir/build.make
-NameSeeker/NameSeeker: /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl/lib/libcurl.dylib
+NameSeeker/NameSeeker: /Users/tabby/Desktop/projects/C++/MCNameSeeker/NameSeeker/vendor/curl-osx/lib/libcurl.dylib
 NameSeeker/NameSeeker: NameSeeker/CMakeFiles/NameSeeker.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable NameSeeker"
 	cd /Users/tabby/Desktop/projects/C++/MCNameSeeker/build/NameSeeker && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NameSeeker.dir/link.txt --verbose=$(VERBOSE)
