@@ -1,0 +1,3 @@
+[submodule "NameSeeker/vendor/curl"]
+	path = NameSeeker/vendor/curl
+	url = https://github.com/curl/curl.git

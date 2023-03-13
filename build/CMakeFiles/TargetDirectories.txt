@@ -1,0 +1,5 @@
+/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/CMakeFiles/edit_cache.dir
+/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/CMakeFiles/rebuild_cache.dir
+/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/NameSeeker/CMakeFiles/NameSeeker.dir
+/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/NameSeeker/CMakeFiles/edit_cache.dir
+/Users/tabby/Desktop/projects/C++/MCNameSeeker/build/NameSeeker/CMakeFiles/rebuild_cache.dir
